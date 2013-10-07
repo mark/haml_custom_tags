@@ -1,0 +1,25 @@
+GEM
+  specs:
+    haml (3.1.8)
+    metaclass (0.0.1)
+    minitest (5.0.6)
+    mocha (0.14.0)
+      metaclass (~> 0.0.1)
+    multi_json (1.7.9)
+    nokogiri (1.5.6)
+    rake (10.1.0)
+    simplecov (0.7.1)
+      multi_json (~> 1.0)
+      simplecov-html (~> 0.7.1)
+    simplecov-html (0.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  haml
+  minitest
+  mocha
+  nokogiri
+  rake
+  simplecov
